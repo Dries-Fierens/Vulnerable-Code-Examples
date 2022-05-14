@@ -6,7 +6,7 @@ public class console {
         // mvn clean verify -Dsonar.login="token"
 
         // Get username from parameters
-        Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/user_pass", "user", "pass");;
+        Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/user_pass", "user", "pass");
         // Create a statement from database connection
         Statement statement = connection.createStatement();
         try {
