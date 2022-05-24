@@ -1,6 +1,0 @@
-projectKey=org.example:Vulnerable-Code-Examples
-serverUrl=http://localhost:9000
-serverVersion=9.4.0.54424
-dashboardUrl=http://localhost:9000/dashboard?id=org.example%3AVulnerable-Code-Examples
-ceTaskId=AYCZXF9kHMuRiHn-p0py
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYCZXF9kHMuRiHn-p0py
