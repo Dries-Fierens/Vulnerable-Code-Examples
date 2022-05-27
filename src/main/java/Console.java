@@ -11,6 +11,7 @@ public class Console {
     public static void main(String[] args) throws SQLException, IOException, GeneralSecurityException {
         // mvn clean compile sonar:sonar
         // mvn clean verify -Dsonar.login="token"
+        // mvn package for getting a jar file to use in dockerfile
 
         Properties properties = new Properties();
         FileInputStream inputStream = new FileInputStream("src/config.properties");
