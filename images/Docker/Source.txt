@@ -1,0 +1,2 @@
+How to manage docker images in Intellij:
+https://www.jetbrains.com/help/idea/docker.html#managing-images
